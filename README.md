@@ -2,6 +2,8 @@
 
 YogAI is a virtual yoga instructor on a raspberry pi smart mirror. Using an Openpose tensorflow implementation forked from [ildoonet/tf-pose-estimation](https://github.com/ildoonet/tf-pose-estimation), we can guide and instruct a student during their yoga session and improve their form.
 
+*** We've have a tflite implementation! For much faster inference, please see this [repo](https://github.com/mayorquinmachines/YogAI) ***
+
 ## Install
 
 ### Dependencies
